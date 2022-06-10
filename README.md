@@ -53,9 +53,15 @@ El primer mensaje que llega, es el primero que sale.
 ![Cola Ready](Imagenes/ColaLista.JPG)
 
 6.- Accedemos a la cola creada.
+
 ![Accedemos a la Cola](Imagenes/accedemosalacola.JPG)
+
 7.- agregamos un mensaje y ponemos en cuanto expira.
+
 ![Creamos un Mensaje](Imagenes/cremosunmensaje.JPG)
+
 8.- Se cargara eso, los podemos ir quitando o agrenado otros mensajes.
+
 ![Listo](Imagenes/fin.JPG)
+
 9.- No se puede editar, solo borrar, resetear toda la cola o agregar.
